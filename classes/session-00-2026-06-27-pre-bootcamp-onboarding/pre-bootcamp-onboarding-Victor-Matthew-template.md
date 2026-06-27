@@ -6,10 +6,21 @@
 
 <!-- Write the main ideas covered in today's session -->
 
-- Introduction to GitHub and repository management workflows
-- Fork, clone, and branch strategies for collaborative development
-- GitHub user interface navigation and version control fundamentals
+- **Introduction to Git and GitHub Repository Management**
 
+  * Setting up a GitHub account and profile
+  * Creating local Git repositories
+  * Creating and managing GitHub repositories
+
+- **Collaborative Development Workflows**
+
+  * Understanding fork, clone, and branch strategies
+  * Working effectively in collaborative GitHub projects
+
+- **GitHub Fundamentals**
+
+  * Navigating the GitHub interface
+  
 
 ---
 
