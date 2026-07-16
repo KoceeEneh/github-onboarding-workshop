@@ -32,12 +32,13 @@
 Azure Key Vault is an essential service for protecting sensitive information instead of hardcoding credentials into applications. I also learned that Azure RBAC offers a more consistent and scalable way to manage permissions across Azure resources, making it the preferred authorization model for most modern deployments.
 
 - attempted to create a key vault and assign roles to them
+- <img width="472" height="803" alt="Screenshot 2026-07-16 at 18 08 04" src="https://github.com/user-attachments/assets/348c6d71-f432-402c-ad18-a083bd4db9db" />
+- <img width="1203" height="378" alt="Screenshot 2026-07-16 at 18 58 52" src="https://github.com/user-attachments/assets/a64ba47d-945c-47f4-89ed-3cee6743f6e6" />
+- <img width="849" height="303" alt="Screenshot 2026-07-16 at 19 41 04" src="https://github.com/user-attachments/assets/a349d7ec-a6e3-4d7d-b4d0-1750ee11c741" />
 
-![alt text](<Screenshot 2026-07-16 at 18.08.04.png>)
 
-![alt text](<Screenshot 2026-07-16 at 18.58.52.png>)
 
-![alt text](<Screenshot 2026-07-16 at 19.41.04.png>)
+
 ---
 
 ## Questions I Still Have
